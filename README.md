@@ -2,7 +2,7 @@
 
 #### Patents, Standards & Research Publications
 
-This repository archives my formal contributions to intellectual property, technical standards committees, and peer-reviewed academic research.
+This repository archives a subset of my formal contributions to intellectual property, technical standards committees, and peer-reviewed academic research.
 
 ---
 
@@ -17,3 +17,6 @@ This repository archives my formal contributions to intellectual property, techn
 - **Real-Time Systems & Distributed Computing:**
   * Manimaran, G., Manikutty, A., & Murthy, C. S. R. (2000). *DHARMA: A Tool for Evaluating Dynamic Scheduling Algorithms for Real-Time Multiprocessor Systems*. **Journal of Systems and Software**, 50(2), 131-149.
   * Manikutty, A., Shashidhar, M., Manimaran, G., & Murthy, C. S. R. (1997). *DREAD: A Distributed Real-Time Air Defense System*. **Best Paper Award**, 5th IEEE WPDRTS, Geneva, Switzerland.
+
+
+[+]
