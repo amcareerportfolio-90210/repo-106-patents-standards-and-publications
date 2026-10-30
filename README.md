@@ -1,6 +1,6 @@
 ## REPO NAME: repo-106-patents-standards-and-publications
 
-# Patents, Standards & Research Publications
+#### Patents, Standards & Research Publications
 
 This repository archives my formal contributions to intellectual property, technical standards committees, and peer-reviewed academic research.
 
